@@ -36,5 +36,4 @@ This project helped me:
 - Improve visualization skills with **matplotlib** and **seaborn**  
 - Translate raw data into meaningful insights about a historical event  
 
----
-This project demonstrates how data analysis can bring real-world stories to life through numbers and visualizations.  
+
